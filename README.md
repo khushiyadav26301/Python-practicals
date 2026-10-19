@@ -60,7 +60,7 @@ No.	Practical Program
 7	Practical 7
 8	Practical 8
 9	Practical 9
-10	Practical 10
+10 Practical 10
 11	Practical 11
 12	Practical 12
 13	Practical 13
