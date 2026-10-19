@@ -8,8 +8,8 @@ This repository contains my Python practical programs and their output screensho
 
 | Practical No. | Program Name | Source Code |
 |---|---|---|
-| 1 | Quadratic Equation | [View Code](Practical1.py) |
-| 2 | Prime Numbers | [View Code](Practical2.py) |
+| 1 | Quadratic Equation | [View Code](Practical01.py) |
+| 2 | Prime Numbers | [View Code](Practical02.pu) |
 
 ## 📸 Output Screenshots
 
