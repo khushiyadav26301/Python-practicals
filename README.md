@@ -48,17 +48,28 @@ To practise Python programming, improve problem-solving skills, and document my 
 
 📂 Practical Index
 
-No.	Practical	Source Code
+📂 Practical Index
 
-1	Practical 1	Browse the repository files
+No.	Practical Program
+1	Practical 1
+2	Practical 2
+3	Practical 3
+4	Practical 4
+5	Practical 5
+6	Practical 6
+7	Practical 7
+8	Practical 8
+9	Practical 9
+10	Practical 10
+11	Practical 11
+12	Practical 12
+13	Practical 13
+14	Practical 14
+15	Practical 15
 
-2	Practical 2	Browse the repository files
+📸 Program Outputs
 
-3	Practical 3	Browse the repository files
-
-4	Practical 4	Browse the repository files
-
-5	Practical 5	Browse the repository files
+All output screenshots are available in the outputs folder.
 
 📸 Program Outputs
 
