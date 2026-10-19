@@ -44,7 +44,7 @@ Created for my Python practical assignments.
 
 The output screenshots for my Python practicals are available here:
 
-👉 [View All Output Screenshots](outputs/)
+[📸 View All Output Screenshots](./outputs)
 
 ---
 
