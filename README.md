@@ -1,4 +1,4 @@
-🐍 Python Practicals
+ Python Practicals
 
 Welcome to my Python Practicals repository!
 
