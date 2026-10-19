@@ -49,10 +49,15 @@ To practise Python programming, improve problem-solving skills, and document my 
 📂 Practical Index
 
 No.	Practical	Source Code
+
 1	Practical 1	Browse the repository files
+
 2	Practical 2	Browse the repository files
+
 3	Practical 3	Browse the repository files
+
 4	Practical 4	Browse the repository files
+
 5	Practical 5	Browse the repository files
 
 📸 Program Outputs
