@@ -1,24 +1,15 @@
-# My 15 Python Programming Practicals
+🐍 Python Practicals
 
-Welcome to my Python Practicals repository! This repository contains 15 Python programs completed as part of the Programming Using Python course. Each practical includes its source code and corresponding output screenshot.
+## Student Details
 
-⸻
-
-👩‍🎓 Student Details
-
-Field	Details
-
-Name	    Khushi Yadav
-
-Course	     B.Sc. (Hons.) Computer Science
-
-Semester	    I (First Semester)
-
-Roll Number	      26570031
-
-Subject	          Programming Using Python
-
-College	        Ramanujan College, University of Delhi
+| Field | Details |
+|---|---|
+| Name | Khushi Yadav |
+| Course | B.Sc. (Hons.) Computer Science |
+| Semester | I (First Semester) |
+| Roll Number | 26570031 |
+| Subject | Programming Using Python |
+| College | Ramanujan College, University of Delhi |
 
 ⸻
 
@@ -28,8 +19,9 @@ Practical 1: Roots of a Quadratic Equation
 
 Write a Python program to find the roots of a quadratic equation.
 
-* Python Code: View Code
-* Output Screenshot: View Output
+[View Code](./Practical01.py)
+
+[View Output](./Outputs/Practical1%20output.png)
 
 Practical 2: Prime Numbers
 
@@ -105,12 +97,4 @@ Practical 15
 
 ⸻
 
-📂 Repository Contents
-
-* Python source code files for all 15 practicals.
-* Output screenshots stored in the Outputs folder.
-* This README file documenting the practicals.
-
-⸻
-
-Made with 🐍 Python by Khushi Yadav
+Made with 🐍 Python | Programming Using Python
