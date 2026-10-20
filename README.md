@@ -76,7 +76,7 @@ Practical 11
 
 Practical 12
 
-* Python Code: [View Code](./Practical12.py)
+* Python Code: [View Code](./practical12.py)
 * Output Screenshot: [View Output](./Outputs/Practical12%20output.png)
 
 Practical 13
