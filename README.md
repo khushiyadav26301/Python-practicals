@@ -33,11 +33,6 @@ Follow these steps to execute a practical program:
 3. Open Terminal (macOS/Linux) or Command Prompt (Windows).
 4. Navigate to the folder containing the Python practical files.
 5. Run the required program using the appropriate command.
-
-Example:Running Practical 1
-
- python3 Practical01.py
-
 6. Follow any input instructions displayed by the program.
 7. Compare the result with the corresponding output screenshot linked below.
 
@@ -123,5 +118,13 @@ Practical 15
 * Output Screenshot: [View Output](./Outputs/Practical15%20output.png)
 
 ⸻
+Notes
 
+* All programs are written in Python.
+* Run each program using Python 3.
+* Some programs may request user input in the terminal.
+* Programs involving files may require the relevant input files to be present in the correct directory.
+* The output screenshots are provided in the Outputs folder.
+* Click View Code to open a program and View Output to view its corresponding screenshot.
+* File and folder names in Markdown links must match the names in the GitHub repository exactly.
 Made with Python | Programming Using Python
