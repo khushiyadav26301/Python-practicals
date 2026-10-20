@@ -13,6 +13,33 @@
 
 ⸻
 
+Table of Contents
+
+1. About the Repository⁠￼
+2. How to Run the Programs⁠￼
+3. Practical List⁠￼
+4. Notes⁠￼
+
+About the Repository
+
+This repository contains 15 Python practical programs completed as part of the Programming Using Python course. Each practical includes its source code and corresponding output screenshot for easy reference.
+
+How to Run the Programs
+
+Follow these steps to execute a practical program:
+
+1. Install Python 3 on your computer from the official Python website⁠￼.
+2. Download or clone this repository to your computer.
+3. Open Terminal (macOS/Linux) or Command Prompt (Windows).
+4. Navigate to the folder containing the Python practical files.
+5. Run the required program using the appropriate command.
+
+|Example:Running Practical 1|
+ |python3 Practical01.py|
+
+6. Follow any input instructions displayed by the program.
+7. Compare the result with the corresponding output screenshot linked below.
+
 📚 List of Practicals
 
 Practical 1: Roots of a Quadratic Equation
