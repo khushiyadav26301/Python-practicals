@@ -34,8 +34,9 @@ Follow these steps to execute a practical program:
 4. Navigate to the folder containing the Python practical files.
 5. Run the required program using the appropriate command.
 
-|Example:Running Practical 1|
- |python3 Practical01.py|
+Example:Running Practical 1
+
+ python3 Practical01.py
 
 6. Follow any input instructions displayed by the program.
 7. Compare the result with the corresponding output screenshot linked below.
