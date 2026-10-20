@@ -1,8 +1,10 @@
-Python Practicals
+  My 15 Python Programming Practicals
 
-A collection of Python programs completed as part of the Programming Using Python course.
+Welcome to my Python Practicals repository! This repository contains 15 Python programs completed as part of the Programming Using Python course. Each practical includes the source code and its corresponding output screenshot.
 
-Student Details
+⸻
+
+👩‍🎓 Student Details
 
 Field	Details
 Name	Khushi Yadav
@@ -14,119 +16,120 @@ College	Ramanujan College, University of Delhi
 
 ⸻
 
-List of Practicals
+📚 List of Practicals
 
 Practical 1: Roots of a Quadratic Equation
 
 Write a Python program to find the roots of a quadratic equation.
 
-* Python Code: Practical01.py
-* Output Screenshot: Practical1 output.png
+* 💻 Python Code: Practical01.py
+* 📸 Output Screenshot: Practical1 output.png
 
 Practical 2: Prime Number Operations
 
-Write a Python program to check whether a number is prime, generate all prime numbers up to a given number, and generate the first n prime numbers.
+Write a Python program to check whether a number is prime, generate prime numbers up to a given number, and generate the first n prime numbers.
 
-* Python Code: Practical02.py
-* Output Screenshot: Practical2 output.png
+* 💻 Python Code: Practical02.py
+* 📸 Output Screenshot: Practical2 output.png
 
 Practical 3: Pyramid and Reverse Pyramid Patterns
 
 Write a Python program to print pyramid and reverse pyramid patterns.
 
-* Python Code: Practical03.py
-* Output Screenshot: Practical3 output.png
+* 💻 Python Code: Practical03.py
+* 📸 Output Screenshot: Practical3 output.png
 
-Practical 4: Character Classification and Digit Names
+Practical 4: Character and Digit Classification
 
-Write a Python program to classify characters and display the names of digits.
+Write a Python program to classify characters and digits according to specified conditions.
 
-* Python Code: Practical04.py
-* Output Screenshot: Practical4 output.png
+* 💻 Python Code: Practical04.py
+* 📸 Output Screenshot: Practical4 output.png
 
 Practical 5: String Operations
 
-Write a Python program to perform string operations, including frequency counting, replacement, and removal.
+Write a Python program to perform operations on strings.
 
-* Python Code: Practical05.py
-* Output Screenshot: Practical5 output.png
+* 💻 Python Code: Practical05.py
+* 📸 Output Screenshot: Practical5 output.png
 
-Practical 6: Swapping the First N Characters of Two Strings
+Practical 6: Swapping Values
 
-Write a Python program to swap the first n characters of two strings.
+Write a Python program to swap the values of two variables.
 
-* Python Code: Practical06.py
-* Output Screenshot: Practical6 output.png
+* 💻 Python Code: Practical06.py
+* 📸 Output Screenshot: Practical6 output.png
 
-Practical 7: Finding All Occurrences of a String
+Practical 7: Counting Occurrences
 
-Write a Python program to find all occurrences of a substring in a given string.
+Write a Python program to count the occurrences of elements in a given input.
 
-* Python Code: Practical07.py
-* Output Screenshot: Practical7 output.png
+* 💻 Python Code: Practical07.py
+* 📸 Output Screenshot: Practical7 output.png
 
-Practical 8: Cubes of Even Integers
+Practical 8: Cubes of Numbers
 
-Write a Python program to calculate the cubes of even integers using loops and list comprehension.
+Write a Python program to calculate the cubes of numbers.
 
-* Python Code: Practical08.py
-* Output Screenshot: Practical8 output.png
+* 💻 Python Code: Practical08.py
+* 📸 Output Screenshot: Practical8 output.png
 
-Practical 9: File Operations and File Statistics
+Practical 9: File Handling and Statistics
 
-Write a Python program to perform file operations and display file statistics.
+Write a Python program to work with files and perform statistical operations.
 
-* Python Code: Practical09.py
-* Output Screenshot: Practical9 output.png
+* 💻 Python Code: Practical09.py
+* 📸 Output Screenshot: Practical9 output.png
 
-Practical 10: Dictionary of Numbers and Their Cubes
+Practical 10: Dictionary of Cubes
 
 Write a Python program to create a dictionary containing numbers and their cubes.
 
-* Python Code: Practical10.py
-* Output Screenshot: Practical10 output.png
+* 💻 Python Code: Practical10.py
+* 📸 Output Screenshot: Practical10 output.png
 
 Practical 11: Tuple Operations
 
 Write a Python program to perform operations on tuples.
 
-* Python Code: Practical11.py
-* Output Screenshot: Practical11 output.png
+* 💻 Python Code: Practical11.py
+* 📸 Output Screenshot: Practical11 output.png
 
 Practical 12: Employee Class Using OOP
 
-Write a Python program to create an Employee class using object-oriented programming concepts.
+Write a Python program to create an employee class using object-oriented programming concepts.
 
-* Python Code: practical12.py
-* Output Screenshot: Practical12 output.png
+* 💻 Python Code: Practical12.py
+* 📸 Output Screenshot: Practical12 output.png
 
-Practical 13: 2D Point Class and Distance Calculation
+Practical 13: Two-Dimensional Point
 
-Write a Python program to create a two-dimensional Point class and calculate the distance between points.
+Write a Python program to represent a two-dimensional point using a class.
 
-* Python Code: Practical13.py
-* Output Screenshot: Practical13 output.png
+* 💻 Python Code: Practical13.py
+* 📸 Output Screenshot: Practical13 output.png
 
-Practical 14: Inheritance — 3D Point and Distance Calculation
+Practical 14: Inheritance and Three-Dimensional Point
 
-Write a Python program to demonstrate inheritance using a three-dimensional Point class and calculate the distance between points.
+Write a Python program to demonstrate inheritance using a three-dimensional point.
 
-* Python Code: Practical14.py
-* Output Screenshot: Practical14 output.png
+* 💻 Python Code: Practical14.py
+* 📸 Output Screenshot: Practical14 output.png
 
-Practical 15: Name Validation Using Exception Handling
+Practical 15: Exception-Based Name Validation
 
 Write a Python program to validate a name using exception handling.
 
-* Python Code: Practical15.py
-* Output Screenshot: Practical15 output.png
+* 💻 Python Code: Practical15.py
+* 📸 Output Screenshot: Practical15 output.png
 
 ⸻
 
-Repository Structure
+📂 Repository Structure
 
 Python-practicals/
 │
+├── README.md
 ├── Practical01.py
 ├── Practical02.py
 ├── Practical03.py
@@ -138,33 +141,19 @@ Python-practicals/
 ├── Practical09.py
 ├── Practical10.py
 ├── Practical11.py
-├── practical12.py
+├── Practical12.py
 ├── Practical13.py
 ├── Practical14.py
 ├── Practical15.py
 │
-├── Outputs/
-│   ├── Practical1 output.png
-│   ├── Practical2 output.png
-│   ├── Practical3 output.png
-│   └── ...
-│
-└── README.md
+└── Outputs/
+    ├── Practical1 output.png
+    ├── Practical2 output.png
+    └── ... remaining output screenshots
 
 ⸻
 
-About This Repository
-
-This repository contains 15 Python practical programs covering fundamental Python concepts, including:
-
-* Mathematical calculations and conditional statements
-* Loops and pattern printing
-* Strings and character operations
-* Lists, tuples, and dictionaries
-* File handling
-* Object-oriented programming
-* Classes, inheritance, and exception handling
+Made with Python
 
 Submitted by: Khushi Yadav
-Course: B.Sc. (Hons.) Computer Science
-College: Ramanujan College, University of Delhi
+Ramanujan College, University of Delhi
