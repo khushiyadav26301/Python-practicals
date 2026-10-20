@@ -7,17 +7,18 @@ Welcome to my Python Practicals repository! This repository contains 15 Python p
 👩‍🎓 Student Details
 
 Field	Details
-Name	 Khushi Yadav
 
-Course	 B.Sc. (Hons.) Computer Science
+Name	    Khushi Yadav
 
-Semester	 I (First Semester)
+Course	     B.Sc. (Hons.) Computer Science
 
-Roll Number	 26570031
+Semester	    I (First Semester)
 
-Subject	 Programming Using Python
+Roll Number	      26570031
 
-College	 Ramanujan College, University of Delhi
+Subject	          Programming Using Python
+
+College	        Ramanujan College, University of Delhi
 
 ⸻
 
