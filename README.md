@@ -127,4 +127,5 @@ Notes
 * The output screenshots are provided in the Outputs folder.
 * Click View Code to open a program and View Output to view its corresponding screenshot.
 * File and folder names in Markdown links must match the names in the GitHub repository exactly.
+
 Made with Python | Programming Using Python
