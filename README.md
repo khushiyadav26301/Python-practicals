@@ -13,6 +13,7 @@
 
 ⸻
 
+
 📚 Table of Contents
 
 1. Roots of a Quadratic Equation⁠￼
@@ -30,6 +31,7 @@
 13. 2D Point Class and Distance Calculation⁠￼
 14. Inheritance: 3D Point and Distance Calculation⁠￼
 15. Name Validation Using Exception Handling⁠￼
+
 
 📚 List of Practicals
 
@@ -53,6 +55,7 @@ How to Run:
 * Python code: [View Code](./Practical01.py)
 * Output Screenshot: [View Output](./Outputs/Practical1%20output.png)
 
+
 Practical 2: Prime Numbers
 
 Write a Python program to check whether a number is prime.
@@ -73,6 +76,7 @@ How to Run:
 * Python Code: [View Code](./Practical02.py)
 * Output Screenshot: [View Output](./Outputs/Practical2%20output.png)
 
+
 Practical 3
 
 Description: A Python program to display pyramid and reverse pyramid patterns.
@@ -90,6 +94,7 @@ How to Run:
 
 * Python Code: [View Code](./Practical03.py)
 * Output Screenshot: [View Output](./Outputs/Practical3%20output.png)
+
 
 Practical 4
 
@@ -109,6 +114,7 @@ How to Run:
 * Python Code: [View Code](./Practical04.py)
 * Output Screenshot: [View Output](./Outputs/Practical4%20output.png)
 
+
 Practical 5
 
 Description: A Python program to find character frequency and perform replace and remove operations on strings.
@@ -126,6 +132,7 @@ How to Run:
 
 * Python Code: [View Code](./Practical05.py)
 * Output Screenshot: [View Output](./Outputs/Practical5%20output.png)
+
 
 Practical 6
 
@@ -145,6 +152,7 @@ How to Run:
 * Python Code: [View Code](./Practical06.py)
 * Output Screenshot: [View Output](./Outputs/Practical6%20output.png)
 
+
 Practical 7
 
 Description: A Python program to find all occurrences of a substring within a string.
@@ -162,6 +170,7 @@ How to Run:
 
 * Python Code: [View Code](./Practical07.py)
 * Output Screenshot: [View Output](./Outputs/Practical7%20output.png)
+
 
 Practical 8
 
@@ -181,6 +190,7 @@ How to Run:
 * Python Code: [View Code](./Practical08.py)
 * Output Screenshot: [View Output](./Outputs/Practical8%20output.png)
 
+
 Practical 9
 
 Description: A Python program demonstrating file operations and file statistics.
@@ -198,6 +208,7 @@ How to Run:
 
 * Python Code: [View Code](./Practical09.py)
 * Output Screenshot: [View Output](./Outputs/Practical9%20output.png)
+
 
 Practical 10
 
@@ -217,6 +228,7 @@ How to Run:
 * Python Code: [View Code](./Practical10.py)
 * Output Screenshot: [View Output](./Outputs/Practical10%20output.png)
 
+
 Practical 11
 
 Description: A Python program demonstrating common operations performed on tuples.
@@ -234,6 +246,7 @@ How to Run:
 
 * Python Code: [View Code](./Practical11.py)
 * Output Screenshot: [View Output](./Outputs/Practical11%20output.png)
+
 
 Practical 12
 
@@ -253,6 +266,7 @@ How to Run:
 * Python Code: [View Code](./practical12.py)
 * Output Screenshot: [View Output](./Outputs/Practical12%20output.png)
 
+
 Practical 13
 
 Description: A Python program using a class to represent a two-dimensional point and calculate distance.
@@ -271,6 +285,7 @@ How to Run:
 * Python Code: [View Code](./Practical13.py)
 * Output Screenshot: [View Output](./Outputs/Practical13%20output.png)
 
+
 Practical 14
 
 Description: A Python program demonstrating inheritance with three-dimensional points and distance calculation.
@@ -288,6 +303,7 @@ How to Run:
 
 * Python Code: [View Code](./Practical14.py)
 * Output Screenshot: [View Output](./Outputs/Practical14%20output.png)
+
 
 Practical 15
 
@@ -308,6 +324,7 @@ How to Run:
 * Output Screenshot: [View Output](./Outputs/Practical15%20output.png)
 
 ⸻
+
 
 🎯 Learning Outcomes
 
